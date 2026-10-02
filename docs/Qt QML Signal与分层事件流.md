@@ -14,6 +14,8 @@
 
 属性、`READ/WRITE/NOTIFY` 和双向绑定参见：[Qt Q_PROPERTY 与跨平台双向绑定对照](Qt%20Q_PROPERTY与跨平台双向绑定对照.md)。
 
+用户意图进入 C++ 后的方法暴露、动态调用和异步反馈参见：[Qt Q_INVOKABLE 与跨平台命令调用对照](Qt%20Q_INVOKABLE与跨平台命令调用对照.md)。
+
 官方参考：
 
 - [Qt QML Signal and Handler Event System](https://doc.qt.io/qt-6/qtqml-syntax-signals.html)

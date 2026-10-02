@@ -13,6 +13,8 @@
 
 属性绑定的完整细节参见：[Qt Q_PROPERTY 与跨平台双向绑定对照](Qt%20Q_PROPERTY与跨平台双向绑定对照.md)。QML 组件事件和后端事件的分层参见：[Qt QML Signal 与分层事件流](Qt%20QML%20Signal与分层事件流.md)。
 
+方法暴露、动态调用、线程边界及 WPF/Android 命令对照参见：[Qt Q_INVOKABLE 与跨平台命令调用对照](Qt%20Q_INVOKABLE与跨平台命令调用对照.md)。
+
 官方参考：
 
 - [Qt Meta-Object System](https://doc.qt.io/qt-6.8/metaobjects.html)

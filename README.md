@@ -11,6 +11,7 @@
 ## Qt 核心机制
 
 - [Qt 元对象系统与 QML 类型注册](docs/Qt元对象系统与QML类型注册.md)：理解 `Q_OBJECT`、信号槽、反射能力与 C++ 类型暴露方式。
+- [Qt Q_INVOKABLE 与跨平台命令调用对照](docs/Qt%20Q_INVOKABLE与跨平台命令调用对照.md)：梳理 C++ 方法暴露、动态调用与异步边界，对照 WPF、Caliburn.Micro 和 Android 的界面命令。
 
 ## 环境搭建
 

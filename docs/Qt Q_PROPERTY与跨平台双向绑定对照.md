@@ -14,6 +14,8 @@
 
 QML 组件自定义 signal、用户意图和分层事件流参见：[Qt QML Signal 与分层事件流](Qt%20QML%20Signal与分层事件流.md)。
 
+界面操作如何调用 C++ 方法，以及命令可用性与 WPF/Android 的对应关系，参见：[Qt Q_INVOKABLE 与跨平台命令调用对照](Qt%20Q_INVOKABLE与跨平台命令调用对照.md)。
+
 `moc`、`Q_OBJECT`、`Q_GADGET`、`Q_ENUM` 和 QML 类型注册的基础原理参见：[Qt 元对象系统与 QML 类型注册](Qt元对象系统与QML类型注册.md)。
 
 官方参考：
