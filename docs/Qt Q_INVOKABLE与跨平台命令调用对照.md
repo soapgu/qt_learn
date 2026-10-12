@@ -15,6 +15,7 @@
 相关专题：
 
 - [Qt 元对象系统与 QML 类型注册](Qt元对象系统与QML类型注册.md)：`moc`、`Q_OBJECT`、枚举和类型注册。
+- [Qt QML_SINGLETON 与 C++ 静态方法](Qt%20QML_SINGLETON与C++静态方法.md)：单例对象如何通过 invokable 成员方法转发到静态入口。
 - [Qt Q_PROPERTY 与跨平台双向绑定对照](Qt%20Q_PROPERTY与跨平台双向绑定对照.md)：状态、属性读写和通知。
 - [Qt QML Signal 与分层事件流](Qt%20QML%20Signal与分层事件流.md)：组件用户意图、后端事实与事件分层。
 

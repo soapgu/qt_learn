@@ -15,6 +15,8 @@
 
 方法暴露、动态调用、线程边界及 WPF/Android 命令对照参见：[Qt Q_INVOKABLE 与跨平台命令调用对照](Qt%20Q_INVOKABLE与跨平台命令调用对照.md)。
 
+单例实例化、每引擎对象与静态方法的关系参见：[Qt QML_SINGLETON 与 C++ 静态方法](Qt%20QML_SINGLETON与C++静态方法.md)。
+
 官方参考：
 
 - [Qt Meta-Object System](https://doc.qt.io/qt-6.8/metaobjects.html)

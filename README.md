@@ -14,6 +14,7 @@
 - [Qt 元对象系统与 QML 类型注册](docs/Qt元对象系统与QML类型注册.md)：理解 `Q_OBJECT`、信号槽、反射能力与 C++ 类型暴露方式。
 - [Qt C++ 接口类与纯虚函数](docs/Qt%20C++接口类与纯虚函数.md)：拆解纯虚常量成员函数、`Q_DECLARE_INTERFACE`/`Q_INTERFACES` 机制与虚析构函数的三种写法。
 - [Qt Q_INVOKABLE 与跨平台命令调用对照](docs/Qt%20Q_INVOKABLE与跨平台命令调用对照.md)：梳理 C++ 方法暴露、动态调用与异步边界，对照 WPF、Caliburn.Micro 和 Android 的界面命令。
+- [Qt QML_SINGLETON 与 C++ 静态方法](docs/Qt%20QML_SINGLETON与C++静态方法.md)：区分 QML 单例对象、成员方法与静态入口，理解每引擎实例和进程共享配置。
 
 ## 工程实践
 
