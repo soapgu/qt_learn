@@ -15,6 +15,10 @@
 - [Qt C++ 接口类与纯虚函数](docs/Qt%20C++接口类与纯虚函数.md)：拆解纯虚常量成员函数、`Q_DECLARE_INTERFACE`/`Q_INTERFACES` 机制与虚析构函数的三种写法。
 - [Qt Q_INVOKABLE 与跨平台命令调用对照](docs/Qt%20Q_INVOKABLE与跨平台命令调用对照.md)：梳理 C++ 方法暴露、动态调用与异步边界，对照 WPF、Caliburn.Micro 和 Android 的界面命令。
 
+## 工程实践
+
+- [如何在 Qt 项目中使用第三方库——入门级教程](docs/如何在Qt项目中使用第三方库-入门级教程.md)：以 caliburn-micro-qt 为例，介绍如何使用 CMake FetchContent 管理第三方依赖（spdlog、Boost.DI）。
+
 ## 环境搭建
 
 - [银河麒麟 Qt 6.8.3 环境安装操作手册](docs/银河麒麟Qt6环境安装操作手册.md)：在银河麒麟桌面操作系统上安装 Qt 6.8.3、Qt Creator 并验证工程构建。
@@ -23,6 +27,10 @@
 
 - [Mac 与银河麒麟 Qt 5 跨平台开发实践](docs/Mac与银河麒麟Qt5跨平台开发实践.md)：以 Qt 5.12 为兼容基线，记录 Apple Silicon Mac 开发、麒麟原生构建、SSH 维护、GUI 验证与常见故障排查。
 
+## 心得体会
+
+- [0经验开发 QT——序章](docs/体会/0经验开发QT-序章.md)：从 WPF/Android 经验出发，分享 AI Agent 辅助与跨系统经验迁移的 Qt 学习路径。
+
 ## 目录结构
 
 ```text
@@ -30,6 +38,8 @@
 ├── README.md
 └── docs
     ├── *.md
+    ├── 体会
+    │   └── *.md
     └── assets
         └── *.png
 ```
