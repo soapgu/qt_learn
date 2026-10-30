@@ -26,6 +26,7 @@
 ### Qt 元对象系统与 C++ 基础
 
 - [Qt 元对象系统与 QML 类型注册](docs/Qt元对象系统与QML类型注册.md)：理解 `Q_OBJECT`、信号槽、反射能力与 C++ 类型暴露方式。
+- [Qt connect 信号槽连接方式详解](docs/Qt%20connect信号槽连接方式详解.md)：系统讲解连接语法、全部连接类型、队列与跨线程通信、参数传递、连接生命周期及可运行示例。
 - [Qt 元对象注解宏详解](docs/Qt%20元对象注解宏详解.md)：讲解 Q_OBJECT、Q_PROPERTY、QML_ELEMENT 等宏的本质、工作机制与 .NET/Java 对比。
 - [Qt C++ 接口类与纯虚函数](docs/Qt%20C++接口类与纯虚函数.md)：拆解纯虚常量成员函数、`Q_DECLARE_INTERFACE`/`Q_INTERFACES` 机制与虚析构函数的三种写法。
 - [C++ 友元类与友元函数](docs/C++友元类与友元函数.md)：讲解 `friend` 语法、访问控制、使用场景与 Qt 元对象系统的关系。
