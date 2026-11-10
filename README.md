@@ -43,6 +43,8 @@
 - [C++ 静态库与动态库——基础知识与项目实战](docs/C++静态库与动态库-基础知识与项目实战.md)：从编译、链接与加载入门，结合 spdlog 和表决 SDK 讲解静态库、动态库、CMake 关联和实际调用流程。
 - [如何在 Qt 项目中使用第三方库——入门级教程](docs/如何在Qt项目中使用第三方库-入门级教程.md)：以 caliburn-micro-qt 为例，介绍如何使用 CMake FetchContent 管理第三方依赖（spdlog、Boost.DI）。
 - [Qt 6 Linux 打包实战与 Fcitx 插件分发](docs/Qt6%20Linux打包实战与Fcitx插件分发.md)：以 CMake 和 CPack 为例，讲解如何分发 Qt 运行库、QML 模块和 Fcitx 桥接插件。
+- [银河麒麟 Qt 6 连接达梦 DM8](docs/银河麒麟Qt6连接达梦DM8.md)，从 Qt SQL 构建依赖到随应用部署达梦驱动，通过启动脚本自动注册驱动并免 DSN 连接。
+- [银河麒麟 Qt 项目接入 OpenSSL 构建 AES](docs/银河麒麟Qt项目接入OpenSSL构建AES.md)，使用配套头文件和系统的 `libcrypto.so.1.1` 构建 AES-256-GCM 凭据模块。
 
 ### 环境搭建与跨平台开发
 
