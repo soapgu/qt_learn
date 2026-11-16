@@ -35,6 +35,8 @@
 
 ### 网络请求与异步处理
 
+- [Qt 轻量 HTTP 与 WebSocket 服务实践](docs/Qt轻量HTTP与WebSocket服务实践.md)：结合 qt-http-websocket-demo，讲解 HTTP 路由、同端口 WebSocket 广播、Qt 客户端联调及服务生命周期。
+
 - [Qt 原生 HTTP 实战——从 JSON 请求到图片下载](docs/Qt%20原生%20HTTP%20实战——从%20JSON%20请求到图片下载.md)：结合每日一图项目，介绍 `QNetworkAccessManager`、`QRestAccessManager`、JSON 解析、图片下载，以及取消、超时和连续刷新时的结果管理。
 - [Qt QTimer：基础用法、事件循环与网络超时实战](docs/Qt%20QTimer定时器-基础知识与网络超时实战.md)：讲解重复与单次定时器、事件循环、回调生命周期、线程归属，以及首次刷新、请求总时限和防抖等用法。
 
